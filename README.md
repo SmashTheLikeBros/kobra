@@ -6,7 +6,7 @@ kobrad
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://choosealicense.com/licenses/isc/)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/Pyrinpyi/pyipad)
 
-kobrad is the reference full node Pyrin implementation written in Go (golang).
+kobrad is the reference full node kobra implementation written in Go (golang).
 (Fork of https://github.com/kaspanet/kaspad)
 
 ## What is kobra
@@ -45,7 +45,7 @@ $ go install . ./cmd/...
 
 ## Getting Started
 
-pyipad has several configuration options available to tweak how it runs, but all
+kobrad has several configuration options available to tweak how it runs, but all
 of the basic operations work with zero configuration.
 
 ```bash
@@ -53,7 +53,7 @@ $ kobrad
 ```
 
 ## Discord
-Join our discord server using the following link: https://discord.gg/sFSASsgx
+Join our discord server using the following link : https://discord.gg/ahnm5zENqg
 
 ## Issue Tracker
 
