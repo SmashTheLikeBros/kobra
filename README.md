@@ -6,7 +6,7 @@ kobrad
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://choosealicense.com/licenses/isc/)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/Pyrinpyi/pyipad)
 
-pyipad is the reference full node Pyrin implementation written in Go (golang).
+kobrad is the reference full node Pyrin implementation written in Go (golang).
 (Fork of https://github.com/kaspanet/kaspad)
 
 ## What is kobra
