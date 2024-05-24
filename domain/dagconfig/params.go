@@ -210,12 +210,14 @@ var MainnetParams = Params{
 	K:           defaultGHOSTDAGK,
 	Name:        "kobradag-mainnet",
 	Net:         appmessage.Mainnet,
-	RPCPort:     "19110",
-	DefaultPort: "19111",
+	RPCPort:     "25110",
+	DefaultPort: "25111",
 	DNSSeeds: []string{
 		"kobradag.online",
-		"kobradag1.online",
+		"kobradag1.online.",
 		"kobradag2.online",
+		"seeder-mainnet.kobradag3.online",
+		"seeder1-mainnet.frin-network.online",
 	},
 
 	// DAG parameters
