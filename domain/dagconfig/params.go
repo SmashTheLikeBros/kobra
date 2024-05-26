@@ -217,7 +217,9 @@ var MainnetParams = Params{
 		"kobradag1.online.",
 		"kobradag2.online",
 		"kobraman.online",
-		"seeder-mainnet.kobradag3.online",
+        "kobradag.cloud",
+		"kobradag3.online",
+		"seeder1-mainnet.frin-network.online"
 	},
 
 	// DAG parameters
